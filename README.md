@@ -52,4 +52,4 @@ decision to make.
 - Reddit public API
 
 ## Live Demo
-👉 [your link here]
+https://f1-sentiment-dsy8vijicir9jrnagztwqt.streamlit.app/
